@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Bvnkumar/reactfirst/static/css/main.f855e6bc.css",
+    "main.js": "/Bvnkumar/reactfirst/static/js/main.1a9b18d1.js",
+    "static/js/787.510ee1e4.chunk.js": "/Bvnkumar/reactfirst/static/js/787.510ee1e4.chunk.js",
+    "static/media/logo.svg": "/Bvnkumar/reactfirst/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Bvnkumar/reactfirst/index.html",
+    "main.f855e6bc.css.map": "/Bvnkumar/reactfirst/static/css/main.f855e6bc.css.map",
+    "main.1a9b18d1.js.map": "/Bvnkumar/reactfirst/static/js/main.1a9b18d1.js.map",
+    "787.510ee1e4.chunk.js.map": "/Bvnkumar/reactfirst/static/js/787.510ee1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1a9b18d1.js"
+  ]
+}
